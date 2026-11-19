@@ -1,0 +1,509 @@
+{
+ "checked_at": "2026-10-27 15:10",
+ "report": [
+  {
+   "id": "385712",
+   "name": "酷炫科技风",
+   "state": "open",
+   "page": "https://motiongit.com/@adunext/385712",
+   "note": ""
+  },
+  {
+   "id": "336980",
+   "name": "现代图文 · 口播讲解",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-01-integrated",
+   "note": ""
+  },
+  {
+   "id": "314486",
+   "name": "现代图文 · 口播讲解 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-01-integrated-portrait",
+   "note": ""
+  },
+  {
+   "id": "358192",
+   "name": "纸面透视 · 口播讲解",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-02-expanded",
+   "note": ""
+  },
+  {
+   "id": "295450",
+   "name": "纸面透视 · 口播讲解 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-02-expanded-portrait",
+   "note": ""
+  },
+  {
+   "id": "304634",
+   "name": "深色立体 · 多屏展陈",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-03-native",
+   "note": ""
+  },
+  {
+   "id": "569615",
+   "name": "深色立体 · 多屏展陈 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-03-native-portrait",
+   "note": ""
+  },
+  {
+   "id": "553346",
+   "name": "科技控制台 · 口播讲解",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-04-dark-console",
+   "note": ""
+  },
+  {
+   "id": "738182",
+   "name": "科技控制台 · 口播讲解 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
+   "note": ""
+  },
+  {
+   "id": "960723",
+   "name": "鲜色角色 · 叙事讲解",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-05-native",
+   "note": ""
+  },
+  {
+   "id": "293151",
+   "name": "鲜色角色 · 叙事讲解 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/template-05-native-portrait",
+   "note": ""
+  },
+  {
+   "id": "762139",
+   "name": "活力海报 · 口播讲解",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/vibrant-poster",
+   "note": ""
+  },
+  {
+   "id": "721489",
+   "name": "活力海报 · 口播讲解 · 竖屏",
+   "state": "closed",
+   "page": "https://motiongit.com/@adunext/vibrant-poster-portrait",
+   "note": ""
+  },
+  {
+   "id": "854836",
+   "name": "口播宣传动效 10 秒",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/kouboo-motion",
+   "note": ""
+  },
+  {
+   "id": "554769",
+   "name": "3D 口播开场",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/cool-3d-intro",
+   "note": ""
+  },
+  {
+   "id": "228996",
+   "name": "DEEP STAGE 口播主舞台",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-host-stage",
+   "note": ""
+  },
+  {
+   "id": "838778",
+   "name": "DEEP STAGE 深境舞台完整版",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-full-video",
+   "note": ""
+  },
+  {
+   "id": "583549",
+   "name": "Kit 2 · 口播动效包装（竖屏）",
+   "state": "open",
+   "page": "https://motiongit.com/@chenyutao0417/kit2-koubo-wrap",
+   "note": ""
+  },
+  {
+   "id": "178707",
+   "name": "突破边界",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/break-boundaries",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "148294",
+   "name": "字符剧场",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/character-theater",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "875206",
+   "name": "卡通讲解风",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/cartoon-explainer",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "966597",
+   "name": "像素海洋",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/pixel-ocean",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "287792",
+   "name": "量价图表：K线突破与分时动画",
+   "state": "open",
+   "page": "https://motiongit.com/@oubaba95128/volume-price-kline-charts",
+   "note": ""
+  },
+  {
+   "id": "876",
+   "name": "流程与时间线 · FLOW / TIMELINE",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-flow",
+   "note": ""
+  },
+  {
+   "id": "587362",
+   "name": "DEEP STAGE 案例数据",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-case-data",
+   "note": ""
+  },
+  {
+   "id": "509099",
+   "name": "目标与证据 · 17类语义动效",
+   "state": "open",
+   "page": "https://motiongit.com/@frankye1211/product-update-story",
+   "note": ""
+  },
+  {
+   "id": "643842",
+   "name": "图解口播与图片展示",
+   "state": "open",
+   "page": "https://motiongit.com/@frankye1211/moonwhite-robot-unified",
+   "note": ""
+  },
+  {
+   "id": "233154",
+   "name": "Kit 1 · 人文纪录片知识短片",
+   "state": "open",
+   "page": "https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm",
+   "note": ""
+  },
+  {
+   "id": "360840",
+   "name": "水墨人物志 · 一个人的故事",
+   "state": "open",
+   "page": "https://motiongit.com/@chenyutao0417/ink-saga",
+   "note": ""
+  },
+  {
+   "id": "257987",
+   "name": "瑞士信息设计 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-swiss",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "517652",
+   "name": "黏土实验台 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-clay",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "173723",
+   "name": "粉笔黑板 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-chalkboard",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "880856",
+   "name": "生长导图 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-mindmap",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "949192",
+   "name": "博物馆展墙 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-timeline",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "803150",
+   "name": "发光玻璃板 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-lightboard",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "106531",
+   "name": "等距系统图 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-isometric",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "546070",
+   "name": "纸雕层叠 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-papercut",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "447390",
+   "name": "地铁线路图 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-metro",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "808349",
+   "name": "双色孔版 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-riso",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "968813",
+   "name": "点阵手账 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-sketchnote",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "118272",
+   "name": "彩色几何 · 知识讲解模板",
+   "state": "pending",
+   "page": "https://motiongit.com/@adunext/knowledge-explainer-byrne",
+   "note": "支持量未达标，达标后开放"
+  },
+  {
+   "id": "128610",
+   "name": "多屏拼贴 · 品牌宣传",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-main",
+   "note": ""
+  },
+  {
+   "id": "252912",
+   "name": "像素闯关 · 产品宣传",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
+   "note": ""
+  },
+  {
+   "id": "867595",
+   "name": "明暗快切 · 产品宣传",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
+   "note": ""
+  },
+  {
+   "id": "670021",
+   "name": "流程演示 · 产品教程",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-user",
+   "note": ""
+  },
+  {
+   "id": "452365",
+   "name": "模块拼贴 · 创作者宣传",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-creator",
+   "note": ""
+  },
+  {
+   "id": "213827",
+   "name": "工程蓝图 · 产品拆解",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-blueprint",
+   "note": ""
+  },
+  {
+   "id": "667934",
+   "name": "发布会舞台 · 产品演示",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-keynote",
+   "note": ""
+  },
+  {
+   "id": "394243",
+   "name": "宣纸手卷 · 品牌叙事",
+   "state": "closed",
+   "page": "https://motiongit.com/@motiongit/motiongit-promo-ink",
+   "note": ""
+  },
+  {
+   "id": "873",
+   "name": "拼贴出场 · COLLAGE OPEN",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-open",
+   "note": ""
+  },
+  {
+   "id": "874",
+   "name": "多屏墙换版 · WALL SWAP",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-wall",
+   "note": ""
+  },
+  {
+   "id": "875",
+   "name": "四种看法与片格 · VIEWS / STRIP",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-views",
+   "note": ""
+  },
+  {
+   "id": "877",
+   "name": "产品与品牌 · PRODUCT → BRAND",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-product",
+   "note": ""
+  },
+  {
+   "id": "648878",
+   "name": "DEEP STAGE 产品讲解",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-product-focus",
+   "note": ""
+  },
+  {
+   "id": "640261",
+   "name": "多屏商务 · 动态图表",
+   "state": "open",
+   "page": "https://motiongit.com/@frankye1211/corporate-multiscreen-charts",
+   "note": ""
+  },
+  {
+   "id": "381814",
+   "name": "半调网点 · 人像标题",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
+   "note": ""
+  },
+  {
+   "id": "460349",
+   "name": "照片马赛克 · 拼图揭幕",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-b-mosaic",
+   "note": ""
+  },
+  {
+   "id": "907345",
+   "name": "几何拼贴 · 动态海报",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-c-collage",
+   "note": ""
+  },
+  {
+   "id": "328828",
+   "name": "笔触重绘 · 艺术照片",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-d-brushwork",
+   "note": ""
+  },
+  {
+   "id": "638039",
+   "name": "信号故障 · 照片转场",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-e-glitch",
+   "note": ""
+  },
+  {
+   "id": "800829",
+   "name": "双重曝光 · 人像叠影",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-f-double",
+   "note": ""
+  },
+  {
+   "id": "743702",
+   "name": "空间画廊 · 回忆相册",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
+   "note": ""
+  },
+  {
+   "id": "551805",
+   "name": "镜像万花筒 · 照片变幻",
+   "state": "closed",
+   "page": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
+   "note": ""
+  },
+  {
+   "id": "404937",
+   "name": "DeepSeek 鲸鱼粒子聚合",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deepseek-whale-assemble",
+   "note": ""
+  },
+  {
+   "id": "380710",
+   "name": "DeepSeek 粒子形变",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deepseek-form-morph",
+   "note": ""
+  },
+  {
+   "id": "941301",
+   "name": "DeepSeek 词语粒子",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deepseek-word-morph",
+   "note": ""
+  },
+  {
+   "id": "872",
+   "name": "Light Ribbon Word",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/light-ribbon-word",
+   "note": ""
+  },
+  {
+   "id": "878",
+   "name": "面板擦除 · WIPE PACK",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/collage-wipe",
+   "note": ""
+  },
+  {
+   "id": "921052",
+   "name": "DEEP STAGE 开场点火标题",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-title-ignition",
+   "note": ""
+  },
+  {
+   "id": "430770",
+   "name": "DEEP STAGE 媒体素材墙",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-media-wall",
+   "note": ""
+  },
+  {
+   "id": "581039",
+   "name": "DEEP STAGE 收尾锁版",
+   "state": "open",
+   "page": "https://motiongit.com/@thepandaq/deep-stage-outro-lockup",
+   "note": ""
+  },
+  {
+   "id": "887145",
+   "name": "3D 吉祥物手把手教程",
+   "state": "open",
+   "page": "https://motiongit.com/@xkkiss12/mascot-tutorial-3d",
+   "note": ""
+  }
+ ]
+}
