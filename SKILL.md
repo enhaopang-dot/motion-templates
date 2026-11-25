@@ -48,7 +48,7 @@ python .../motion_tpl.py pick --need "知识讲解 横屏" --top 5
 
 | 档位 | 数量 | 含义 | 能不能自动拿 |
 | --- | --- | --- | --- |
-| 开放 | 28 | 页面写 `Free signup. Free template download.` | **已全部下载入库**（2026-10-27，账号 xingjiu89，逐个验签通过） |
+| 开放 | 28 | 页面写 `Free signup. Free template download.` | **已全部下载入库**（2026-10-27，逐个验签通过） |
 | 待达标 | 16 | 作品支持量达四项指标才开 | 等量，定期复查 |
 | 关闭 | 28 | `下载开关保持关闭` | 暂不可得 |
 
